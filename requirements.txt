@@ -1,0 +1,2 @@
+gpytorch~=1.9.1
+torch~=1.13.1
